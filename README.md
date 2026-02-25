@@ -1,5 +1,3 @@
-# sentiment-analysis-transformer
-A complete Transformer encoder implementation for sentiment analysis on IMDB movie reviews, built entirely from scratch using PyTorch.
 # Sentiment Analysis with Transformer (From Scratch)
 
 A complete Transformer encoder implementation for sentiment analysis on IMDB movie reviews, built entirely from scratch using PyTorch. No pretrained models or transformer libraries—every component hand-coded.
